@@ -1,4 +1,4 @@
-Decrypting passwords from a password list, using MD5 and Sha-256 along with Salting
+Decrypting passwords from the password lists of Asley Madison, eHarmony and Formspring
 
 1. Ashley Madison
 Files Used=>
